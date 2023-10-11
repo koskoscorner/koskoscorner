@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**koskoscorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**koskoscorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on our GitHub profile's.
 
 - 🔭 I’m Always Exploring the World & working on Architecture ...
 - 🌱 I’m currently Learning about Physics, People & How to better Engineer Software...
